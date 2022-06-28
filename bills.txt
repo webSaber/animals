@@ -1,3 +1,4 @@
 visit 1: 20$
 visit 2: 50$
-visi 3: 70$
+visit 3: 70$
+viist 4: 20$
